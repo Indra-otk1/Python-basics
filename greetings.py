@@ -1,8 +1,8 @@
 def show_intro():
     """Display the program introduction."""
-    print("==============================")
+    print("===============================")
     print("Welcome to the User Info Program")
-    print("==============================")
+    print("===============================")
 
 
 def show_exit_message():
